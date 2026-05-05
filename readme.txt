@@ -11,3 +11,11 @@ pustit:
 pip install pandas matplotlib
 python main.py
 
+
+INFO:
+data/data.txv se načítá každou sekundu
+aktuální data jsou silnou barvou
+předchozí stav grafu je vybledlý
+nově přidané body jsou zvýrazněné
+dole jsou tlačítka pro historii a návrat do LIVE režimu
+
